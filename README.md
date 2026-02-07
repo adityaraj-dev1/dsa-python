@@ -1,21 +1,28 @@
-# DSA Practice in Python
+# Data Structures and Algorithms in Python
 
-This repository contains implementations of common Data Structures and Algorithms problems using Python.
+This repository contains implementations of commonly asked DSA problems for coding interviews and internship preparation.
 
-## Topics Covered
-### Arrays
+## Arrays
 - Linear Search
 - Binary Search
 - Reverse Array
+- Largest Element
 - Second Largest Element
-- Two Sum Problem
+- Third Largest Element
+- Kth Largest Element (Heap)
+- Left Rotation by K (Optimal - Reverse)
+- Right Rotation by K (Optimal - Reverse)
+- Remove Duplicates from Sorted Array
+- Union of Two Sorted Arrays
+- Intersection of Two Sorted Arrays
+- Missing Number (XOR Approach)
 
-### Numbers
-- Palindrome Number Check
-
-More problems will be added regularly.
+## Sorting
+- Bubble Sort (Optimized)
+- Selection Sort
+- (Insertion Sort - Coming Next)
 
 ## Purpose
-- Strengthen problem solving skills
-- Prepare for coding interviews and internships
-- Practice clean and readable Python implementations
+- Strengthen problem-solving skills
+- Prepare for technical interviews
+- Practice optimal and clean implementations
