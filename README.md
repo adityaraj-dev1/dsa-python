@@ -16,6 +16,8 @@ This repository contains implementations of commonly asked DSA problems for codi
 - Union of Two Sorted Arrays
 - Intersection of Two Sorted Arrays
 - Missing Number (XOR Approach)
+- Sort 0s 1s 2s (Dutch National Flag Algorithm)
+
 
 ## Sorting
 - Bubble Sort (Optimized)
