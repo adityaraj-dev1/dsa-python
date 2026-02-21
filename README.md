@@ -28,3 +28,7 @@ This repository contains implementations of commonly asked DSA problems for codi
 - Strengthen problem-solving skills
 - Prepare for technical interviews
 - Practice optimal and clean implementations
+
+## Sliding Window
+- Maximum Sum Subarray of Size K
+- First Negative Number in Every Window 
