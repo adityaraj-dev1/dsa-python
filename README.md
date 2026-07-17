@@ -1,36 +1,69 @@
-# Data Structures and Algorithms in Python
+# 🚀 Data Structures and Algorithms in Python
 
-This repository contains implementations of commonly asked DSA problems for coding interviews and internship preparation.
+Welcome to my DSA repository!
 
-## Arrays
-- Linear Search
-- Binary Search
-- Reverse Array
+This repository documents my journey of mastering Data Structures and Algorithms in Python for coding interviews, internships, and software engineering placements.
+
+---
+
+## 📚 Topics Covered
+
+### ✅ Basics
+- Count Digits
+- Reverse Integer
+- Palindrome Number
+- Armstrong Number
+- Divisors (Brute Force & Optimized)
+
+### 🟨 Arrays (In Progress)
 - Largest Element
-- Second Largest Element
-- Third Largest Element
-- Kth Largest Element (Heap)
-- Left Rotation by K (Optimal - Reverse)
-- Right Rotation by K (Optimal - Reverse)
-- Remove Duplicates from Sorted Array
-- Union of Two Sorted Arrays
-- Intersection of Two Sorted Arrays
-- Missing Number (XOR Approach)
-- Sort 0s 1s 2s (Dutch National Flag Algorithm)
+- Second Largest
+- Check if Sorted
+- Remove Duplicates
+- Left Rotation
+- Right Rotation
+- Linear Search
+- Union of Sorted Arrays
+- Intersection of Sorted Arrays
+- Missing Number
+- Maximum Consecutive Ones
+- Single Number (XOR)
+- Dutch National Flag Algorithm
 
-
-## Sorting
-- Bubble Sort (Optimized)
+### 🟨 Sorting
+- Bubble Sort
 - Selection Sort
-- (Insertion Sort - Coming Next)
 
-## Sliding Window
-- Maximum Sum Subarray of Size K
-- First Negative Number in Every Window   
+### 🟨 Sliding Window
+- Maximum Sum Subarray
+- First Negative Number
+- Longest Substring Without Repeating Characters
+- Count Anagrams
 
-## Purpose
-- Strengthen problem-solving skills
-- Prepare for technical interviews
-- Practice optimal and clean implementations
+---
 
+## 📈 Progress
 
+| Topic | Status |
+|--------|--------|
+| Basics | ✅ |
+| Arrays | 🟨 |
+| Sorting | 🟨 |
+| Sliding Window | 🟨 |
+| Binary Search | ⬜ |
+| Linked List | ⬜ |
+| Trees | ⬜ |
+| Graphs | ⬜ |
+| Dynamic Programming | ⬜ |
+
+---
+
+## 💻 Language
+
+- Python 3
+
+---
+
+## 🎯 Goal
+
+To build a complete DSA repository containing clean, optimized, and interview-ready solutions while preparing for software engineering placements.
