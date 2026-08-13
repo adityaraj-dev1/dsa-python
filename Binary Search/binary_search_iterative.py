@@ -19,3 +19,6 @@ arr = [2, 4, 6, 8, 10, 12, 14]
 target = 10
 
 print(binary_search(arr, target))
+
+# Time Complexity: O(log n)
+# Space Complexity: O(1)

@@ -19,3 +19,6 @@ arr = [1, 2, 4, 4, 7, 9]
 target = 5
 
 print(lower_bound(arr, target))
+
+# Time Complexity: O(log n)
+# Space Complexity: O(1)
